@@ -1,8 +1,8 @@
 {
-  "title": "Geolonia PWAマップ",
-  "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」",
+  "title": "広島県呉市カレーマップ",
+  "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」を使用しています。",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
+  "logo_image_url": "https://drive.google.com/file/d/1IUEXvfKkFotfycQhyPZlGIUjnrAlEp-t/view?usp=sharing",
+  "background_image_url": "https://drive.google.com/file/d/1K2ZYBiuTHd7PxFBmreEEVFxX4_t0HMFI/view?usp=sharing",
   "primary_color": "#d2691e"
 }
